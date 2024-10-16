@@ -53,7 +53,7 @@ These subclasses inherit the functionality of the Hostel class and specify the t
 # Requirements
 Python 3.x
 No external libraries are required
-#Usage
+# Usage
 1-Clone the repository:
 git clone (https://github.com/yousefosamaali/college_managment.git)
 2-Run the code: Run the college_management.py file in your Python environment:python college_management.py
@@ -66,8 +66,8 @@ comp_sci_department = Department("Computer Science", 101, "Dr. Smith", 10, 200)
 comp_sci_department.add_event("Coding Workshop", "2024-11-01", "A workshop on competitive programming.")
 comp_sci_department.show_events()
 
-Contribution
+# Contribution
 Contributions are welcome! If you have suggestions for improvements or find any bugs, please create an issue or submit a pull request.
 
-License
+# License
 This project is open-source and available under the MIT License.
