@@ -54,7 +54,7 @@ These subclasses inherit the functionality of the Hostel class and specify the t
 Python 3.x
 No external libraries are required
 #Usage
-1-Clone the repository: git clone https://github.com/yourusername/College-Management-System.git
+1-Clone the repository: git clone (https://github.com/yousefosamaali/college_managment/tree/main)
 2-Run the code: Run the college_management.py file in your Python environment:python college_management.py
 #Examples of usage: Use the available methods to interact with the system and manage college data. Here's a quick example:
 my_college = College("Helwan University", "Giza", "+20-123-456-789")
